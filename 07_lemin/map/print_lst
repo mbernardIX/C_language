@@ -1,0 +1,22 @@
+	ft_printf("%s\n\n", po->command);
+	ft_printf("ants = %d\n\n", po->num_ants);
+	lst = head;
+	while (lst != NULL)
+	{
+		ft_printf("name = %s\n", lst->name_s);
+		ft_printf("x = %d\n", lst->corname_x);
+		ft_printf("y = %d\n", lst->corname_y);
+		ft_printf("start = %d\n", lst->start);
+		ft_printf("end = %d\n", lst->end);
+		if (lst->conn != NULL)
+		{
+			int i = 0;
+			while (i < lst->sizeconn && lst->conn[i] != NULL)
+			{
+				ft_printf("connect = %s\n", lst->conn[i]->name_s);
+				i++;
+			}
+		}
+		ft_printf("------------------------\n\n");
+		lst = lst->next;
+	}

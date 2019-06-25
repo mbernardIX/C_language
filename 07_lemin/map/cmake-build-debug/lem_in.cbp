@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lem_in"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/tmann/Desktop/crew_lem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tmann/Desktop/crew_lem/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tmann/Desktop/crew_lem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tmann/Desktop/crew_lem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tmann/Desktop/crew_lem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/tmann/Desktop/crew_lem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tmann/Desktop/crew_lem/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tmann/Desktop/crew_lem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tmann/Desktop/crew_lem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tmann/Desktop/crew_lem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/tmann/Desktop/crew_lem/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tmann/Desktop/crew_lem/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tmann/Desktop/crew_lem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tmann/Desktop/crew_lem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tmann/Desktop/crew_lem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lem_in">
+				<Option output="/Users/tmann/Desktop/crew_lem/cmake-build-debug/lem_in" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tmann/Desktop/crew_lem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/tmann/Desktop/crew_lem/./include"/>
+					<Add directory="/Users/tmann/Desktop/crew_lem/./libft"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tmann/Desktop/crew_lem/cmake-build-debug/Makefile&quot;  VERBOSE=1 lem_in"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tmann/Desktop/crew_lem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tmann/Desktop/crew_lem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tmann/Desktop/crew_lem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lem_in/fast">
+				<Option output="/Users/tmann/Desktop/crew_lem/cmake-build-debug/lem_in" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/tmann/Desktop/crew_lem/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/tmann/Desktop/crew_lem/./include"/>
+					<Add directory="/Users/tmann/Desktop/crew_lem/./libft"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/tmann/Desktop/crew_lem/cmake-build-debug/Makefile&quot;  VERBOSE=1 lem_in/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/tmann/Desktop/crew_lem/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/tmann/Desktop/crew_lem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/tmann/Desktop/crew_lem/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/chek_num_al_l.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_atoi.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_atoi_for_swap.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_bzero.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_check_sim.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_check_str_numb.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_countc.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_countword.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_error_ps.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_free_two_arr.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_freearr.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_intsize.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_isalnum.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_isalpha.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_isascii.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_isdigit.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_isprint.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_itoa.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_join_free.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_l_itoa.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_latoi.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_lstadd.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_lstdel.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_lstdelone.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_lstiter.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_lstmap.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_lstnew.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_ltoa_base.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_memalloc.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_memccpy.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_memchr.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_memcmp.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_memcpy.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_memdel.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_memmove.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_memset.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_printf/ft_float_accuracy.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_printf/ft_float_roun.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_printf/ft_help_norm_for_d.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_printf/ft_mod_lenght.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_printf/ft_mod_lenght_2.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_printf/ft_parse_format.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_printf/ft_print_float.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_printf/ft_print_int.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_printf/ft_print_o_p.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_printf/ft_print_str_char_pr.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_printf/ft_print_u.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_printf/ft_print_x.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_printf/ft_printf.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_printf/ft_printf.h">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_printf/ft_space_for_x.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_printf/ft_struct.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_putchar.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_putchar_fd.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_putendl.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_putendl_fd.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_putnbr.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_putnbr_fd.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_putstr.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_putstr_fd.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_sqrt.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strcat.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strchr.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strclr.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strcmp.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strcpy.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strdel.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strdup.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strequ.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_striter.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_striteri.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strjoin.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strlcat.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strlen.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strmap.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strmapi.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strncat.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strncmp.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strncpy.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strnequ.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strnew.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strnstr.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strrchr.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strsplit.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strstr.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strsub.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_strtrim.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_swap.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_swappoint.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_tolower.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_toupper.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_utoa_base.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/ft_utoa_base_little.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/get_next_line.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/get_next_line.h">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/libft/libft.h">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/src/alg_lem.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/src/ft_queue.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/src/ft_struct.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/src/func_for_val.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/src/func_for_val_p2.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/src/main.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/src/scan_param.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/src/sort_list.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/src/step_2.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/src/step_3.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/src/struct_for_queue.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/src/val_param.c">
+			<Option target="lem_in"/>
+		</Unit>
+		<Unit filename="/Users/tmann/Desktop/crew_lem/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
