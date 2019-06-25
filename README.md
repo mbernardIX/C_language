@@ -10,3 +10,6 @@ Projects done in C language.
 
 05_prinf:         my own rewritten function "printf"
 
+06_pushswap       working with two stacks. Sorting project.
+
+07_lemin          finding best way solution. Logistics project.
